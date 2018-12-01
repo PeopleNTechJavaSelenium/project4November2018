@@ -1,0 +1,27 @@
+12-01-18 class notes
+
+OOP: Object Oriented Programming
+
+A) Abstraction
+B) Encapsulation
+C) Inheritance
+D) Polymorphism
+
+A) Abstraction: Implementation hiding
+
+Interface vs Abstract class:
+
+Interface is a roadmap/contract between the classes.
+
+In interface, you are allowed to declare methods but not implement it.
+
+In abstract class, you are allowed to have non-abstract method which is implemented and abstract method which is declared only.
+
+
+Car—>MotorCar—>Toyota
+
+B) Encapsulation: Data hiding
+
+
+
+
